@@ -47,6 +47,7 @@ It allows you to quickly extract audio amplitude data and apply it to animation 
 - You must select exactly one audio layer before extracting
 - You must select at least one property before syncing
 - Intensity must be a non-zero numeric value
+- Lower values result in higher intensity
 
 ## License
 
